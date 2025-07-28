@@ -237,7 +237,7 @@ Contact: [EwaChen](mailto:rubee229@proton.me)
 
 This project is shared under a **custom non-commercial license**.
 
-📝 Please read the full terms here: [LICENSE.md](docs/license-tq.md)
+📝 Please read the full terms here: [LICENSE]（docs/LICENSE_TQ.md)
 
 Key points:
 - ✅ Educational & research use allowed
