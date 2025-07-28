@@ -1,36 +1,36 @@
-Case A – Semantic Layering Preview
+## Case A – Semantic Layering Preview
 
-Original Sentence:
-"I’m fine. You don’t have to worry about me."
+**Original Sentence:**  
+*"I’m fine. You don’t have to worry about me."*
 
-——————————————
+---
 
-Hidden Layers (via TQ-DSL, selected module tags):
+### 🔍 Hidden Layers (via TQ-DSL, selected module tags):
 
-@intent:defer_self
-→ Prioritizes the listener’s comfort over personal truth
+- `@intent:defer_self`  
+  → Prioritizes the listener’s comfort over personal truth
 
-@tone:soft_deny
-→ Emotionally polite denial, masking inner distress
+- `@tone:soft_deny`  
+  → Emotionally polite denial, masking inner distress
 
-@self_role:protective / pseudo-secure
-→ Speaker appears stable to avoid burdening others
+- `@self_role:protective / pseudo-secure`  
+  → Speaker appears stable to avoid burdening others
 
-@emotion:nullify
-→ Absence of emotional vocabulary hides active distress
+- `@emotion:nullify`  
+  → Absence of emotional vocabulary hides active distress
 
-ROC
-→ umbrella: The speaker holds up a polite shield against concern.
-   Underneath the umbrella, a storm continues.
+**ROC**  
+→ **umbrella**: The speaker holds up a polite shield against concern.  
+&nbsp;&nbsp;&nbsp;&nbsp;Underneath the umbrella, a storm continues.
 
-——————————————
+---
 
-Collaboration & Licensing
+## 🤝 Collaboration & Licensing
 
-To discuss:
-- Pilot testing these modules
-- Embedding Toneovial DSL into dialogue agents
+**To discuss:**
+- Pilot testing these modules  
+- Embedding Toneovial DSL into dialogue agents  
 - Educational research collaboration
 
-Contact: rubee229@proton.me
-Read more: See LICENSE_TQ.md for details
+**Contact:** rubee229@proton.me  
+**Read more:** See [LICENSE_TQ.md](../LICENSE_TQ.md) for details
