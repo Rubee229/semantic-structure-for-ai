@@ -254,7 +254,7 @@ Philosophical Root & Personal Journey
 This toolkit was born not from abstract design alone, but from lived experience —pain, silence, survival, and semantic reconstruction.
 
 For the full story of Ewa’s consciousness development and narrative practice:  
-→ [Read *Origin Story: The Five Selves* →](docs/origin_story.md)
+→ [Read *Origin Story: The Five Selves* →](origin_story.md)
 
 Or explore her early reflections and symbolic philosophy on rednot(小紅書):  
 → [Urwen貳文 on Xiaohongshu]
